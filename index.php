@@ -253,6 +253,40 @@
 
 </section>
 
+<section class="footer">
+    <div class="box-container">
+        <div class="box">
+            <i class="fas fa-phone"></i>
+            <h3>Telefone</h3>
+        <p>8374324</p>
+
+        </div>
+
+        <div class="box">
+            <i class="fas fa-envelope"></i>
+            <h3>email</h3>
+        <p>dsdw@hotmail.com</p>
+
+        </div>
+
+        <div class="box">
+            <i class="fas fa-map-marker-alt"></i>
+            <h3>Enreço</h3>
+        <p>diqwjdoiq,ce Brazil  </p>
+
+        </div>
+
+        <div class="box">
+            <i class="fas fa-clock"></i>
+            <h3>Horario de funcionamento</h3>
+        <p>8-18h  </p>
+
+        </div>
+
+    </div>
+
+</section>
+
 
 
 
