@@ -324,14 +324,15 @@ html{
     text-align: center;
 }
 
-.footer{
+.footer {
     background-color: var(--light-bg);
 }
 
 .footer .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(30rem,1fr));
-    gap: 2rem;
+    gap: 1rem;
+
 }
 
 .footer .box-container .box{
@@ -345,6 +346,7 @@ html{
     line-height: 5rem;
     font-size: 2rem;
     background-color: var(--blue);
+    color: var(--white);
     margin-bottom: 1rem;
 }
 
@@ -353,14 +355,13 @@ html{
     color: var(--light-color);
     text-transform: none;
     line-height: 2;
-} 
+}
 
 .footer .box-container .box h3{
     font-size: 2rem;
     margin: 1rem 0;
     color: var(--black);
 }
-
 
 
 
